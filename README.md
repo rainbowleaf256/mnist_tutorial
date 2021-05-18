@@ -21,4 +21,29 @@ Code tested on following environments, other version should also work:
 * keras 2.1.2
 
 # For students from SJTU
+
+```
+Q1:
+Training accuracy: 97.48%
+Testing accuracy: 88.70%
+
+Q2:
+Training accuracy: 81.70%
+Testing accuracy: 81.30%
+
+Q3:
+Training accuracy: 97.75%
+Testing accuracy: 87.10%
+
+Q4:
+Training accuracy: 97.75%
+Testing accuracy: 87.00%
+Training accuracy improved: 97.13%
+Testing accuracy improved: 88.20%
+
+Q5:
+Epoch 10 training accuracy:99.99883270263672
+Epoch 10 testing accuracy:98.28726196289062
+```
+
 Please read [HEAR](EE369.md).
